@@ -1,0 +1,2660 @@
+[
+  {
+    "version": "v1",
+    "data": {
+      "id": "facilities.geojson",
+      "label": "new dataset",
+      "color": [
+        143,
+        47,
+        191
+      ],
+      "allData": [
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.36824969711977,
+                39.994092673637184
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.40813551027627,
+                39.968765849208765
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.36607336023859,
+                39.956362885874874
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.37455972847562,
+                40.01724488611816
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.34593732744487,
+                39.974909533647754
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38798800640342,
+                39.926028734497294
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35030551459704,
+                39.98159892447834
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.39288335592505,
+                39.993939473902266
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35941444298359,
+                40.01353027654399
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.3453566965527,
+                39.93556018952678
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.34221382476193,
+                40.008290349816534
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.3692502334623,
+                39.96090815933526
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.39338825424942,
+                40.005324029747236
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.40150598780495,
+                40.013421210553716
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.36218758642849,
+                40.000907644467006
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.34866069155846,
+                39.93130651610589
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38436864622938,
+                40.01905168246365
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.39844434465532,
+                39.951973758045014
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.43424697555673,
+                39.966387971865416
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35953107642194,
+                40.017062752789606
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.42013753606031,
+                39.9703912465138
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.40081660563922,
+                40.00841554905174
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35975189889699,
+                39.99310192293112
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38858905265472,
+                39.99011537027728
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35355500980202,
+                39.94571587955722
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.42916614624451,
+                40.02033986908932
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.4198427701112,
+                39.98138735960002
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.39653549541546,
+                39.979587624142255
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.37414575136054,
+                39.93595261863055
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.41401520859212,
+                39.98290053524445
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.40534065691304,
+                39.95391439717302
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35191289487265,
+                39.96722892044965
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.42012704075297,
+                40.00377448358713
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.4140731104581,
+                40.01548342603448
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.39804977276847,
+                39.976319728786876
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.42539911407452,
+                40.01124645444231
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.34623315284479,
+                39.95643207343293
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.39356981824955,
+                39.949545110639406
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.4314404578719,
+                39.93593453035038
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.39437330973308,
+                40.01522973953222
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.43272558913294,
+                39.97751383682691
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38377120538014,
+                39.929449516136785
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35816372309341,
+                39.92548095551207
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.44005520831792,
+                39.93789351053093
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38687237177774,
+                40.00302527052981
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.36169115265761,
+                39.9981872735398
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38288875023474,
+                39.99499533542299
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.37335452462052,
+                39.94105846858842
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.39342413360784,
+                39.944012263928364
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35492186970362,
+                39.94952367494968
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.34582775711826,
+                39.95736866264178
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.4160024355263,
+                40.015096375077306
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.42918632975318,
+                39.96813956913638
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.34438789196219,
+                39.99850000541789
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.3530504130207,
+                39.98945233843486
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38384444311674,
+                39.94966251781646
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.40730920147801,
+                39.92627194091469
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.3695933179513,
+                40.00281152051831
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.39558373728748,
+                39.95660038976178
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38945055121432,
+                39.955451411498444
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.43634970319447,
+                39.94118270879077
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38993877768036,
+                39.97343521542303
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.40618887293816,
+                39.927426683371365
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35619393381675,
+                40.00983765672739
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38666700078436,
+                40.0052203199197
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.40837090339855,
+                39.925936540189554
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.37502441625703,
+                39.94786988378847
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.36483089878483,
+                40.01470292795405
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.37131878891684,
+                39.95960419818825
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.43876909266965,
+                39.96865852354643
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.36452832266718,
+                39.9550138338095
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.34633557217433,
+                39.94669957548198
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.42984042436439,
+                39.940887011500614
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.34422770247684,
+                40.00270006690534
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38876802277325,
+                39.96756696365345
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38804366314753,
+                39.954812173383566
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38540706924871,
+                39.998784278820494
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38796633970331,
+                40.02239650864224
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.41440720274265,
+                39.97734762497687
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.4227104269567,
+                39.954620330376905
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35913301021063,
+                39.9253413025158
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.39072608920479,
+                39.93918335458485
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35704038114083,
+                39.94014647637565
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38102456313976,
+                40.001330802463016
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.39601893994886,
+                40.01602540324298
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.43301887473076,
+                39.96941548688426
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.43524759844308,
+                39.96894264079899
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35899701145914,
+                39.953118011837354
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.40651220112743,
+                39.93172900029027
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.42558190461932,
+                39.952733158531444
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38910682048088,
+                40.00115642985745
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.35720767822689,
+                39.94580883425475
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.43396084914053,
+                40.00146452009679
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.40351954028931,
+                39.993404776739624
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.40723535689662,
+                39.953908650345035
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.42521344066905,
+                39.95262829856606
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38186058726563,
+                40.0109324152542
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.3710527429728,
+                39.97457522214899
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.38371270813836,
+                39.95800796244218
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ],
+        [
+          {
+            " type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.43317801088993,
+                39.95527291781929
+              ]
+            },
+            "properties": {
+              "name": "MACRES Ground Receiving Station",
+              "styleUrl": "#GroundStation",
+              "styleHash": "178acf54",
+              "Role": "Ground Station",
+              "Status": "Active",
+              "Country": "Malaysia"
+            }
+          },
+          "MACRES Ground Receiving Station",
+          "#GroundStation",
+          "178acf54",
+          "Ground Station",
+          "Active",
+          "Malaysia"
+        ]
+      ],
+      "fields": [
+        {
+          "name": "_geojson",
+          "type": "geojson",
+          "format": "",
+          "analyzerType": "GEOMETRY"
+        },
+        {
+          "name": "name",
+          "type": "string",
+          "format": "",
+          "analyzerType": "STRING"
+        },
+        {
+          "name": "styleUrl",
+          "type": "string",
+          "format": "",
+          "analyzerType": "STRING"
+        },
+        {
+          "name": "styleHash",
+          "type": "string",
+          "format": "",
+          "analyzerType": "STRING"
+        },
+        {
+          "name": "Role",
+          "type": "string",
+          "format": "",
+          "analyzerType": "STRING"
+        },
+        {
+          "name": "Status",
+          "type": "string",
+          "format": "",
+          "analyzerType": "STRING"
+        },
+        {
+          "name": "Country",
+          "type": "string",
+          "format": "",
+          "analyzerType": "STRING"
+        }
+      ]
+    }
+  }
+]
